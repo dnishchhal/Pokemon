@@ -1,0 +1,20 @@
+
+        if(Greenfoot.isKeyDown("Right"))
+        {
+            move(3);
+        }
+        
+        if(Greenfoot.isKeyDown("Left"))
+        {
+            move(-3);
+        }
+        
+        if(Greenfoot.isKeyDown("Up"))
+        {
+            setLocation(getX(), getY() - 3);
+        }
+        
+        if(Greenfoot.isKeyDown("Down"))
+        {
+            setLocation(getX(), getY() + 3);
+        }

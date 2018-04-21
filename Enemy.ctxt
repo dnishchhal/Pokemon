@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=Enemy()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=clss
+comment3.target=greenfoot.Actor\ getOneTouchedObject(java.lang.Class)
+numComments=4
